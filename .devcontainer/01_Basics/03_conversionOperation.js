@@ -1,5 +1,6 @@
-// let score="Pawan"
 
+/*
+// let score="Pawan"
 // console.log(typeof score)
 // console.log(typeof(score));
 
@@ -26,4 +27,26 @@ let someNumber=33
 let stringNumber= String(someNumber);
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+*/
+
+// *******************Opeation************
+
+let value=3
+let nehValur=-value
+
+console.log(nehValur);
+
+console.log(2**3);
+
+let str1="hello"
+let str2=" pawan"
+
+let str3=str1+str2
+console.log(str3);
+
+console.log(+true); //give value 1
+
+let n1,n2,n3
+n1=n2=n3=2
 
